@@ -29,6 +29,6 @@ module blinky(
      
     assign led = count[24];
      
-    always @ (posedge(clk)) 
+    always @ (posedge clk) 
         count <= count + 1;    
 endmodule
