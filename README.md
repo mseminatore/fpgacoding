@@ -1,4 +1,4 @@
-# FPGAcoding.com
+# FPGACoding.com
 Source code companion to the [fpgacoding.com](https://fpgacoding.com) blog
 
 # Examples
